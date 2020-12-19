@@ -1,0 +1,8 @@
+rootProject.name = "MultiModuleTest"
+include ':app'
+include ':feature-signup'
+include ':feature-login'
+include ':components'
+include ':domain'
+include ':data'
+include ':library'

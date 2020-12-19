@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="MultiModuleTest.app" target="11" />
+      <module name="MultiModuleTest.components" target="11" />
+      <module name="MultiModuleTest.data" target="11" />
+      <module name="MultiModuleTest.feature-login" target="11" />
+      <module name="MultiModuleTest.feature-signup" target="11" />
+      <module name="MultiModuleTest.library" target="11" />
+      <module name="MultiModuleTest.local" target="11" />
+      <module name="MultiModuleTest.remote" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
